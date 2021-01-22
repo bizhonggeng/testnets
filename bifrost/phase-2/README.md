@@ -27,7 +27,7 @@ iris version
 ### Join The Testnet
 ```
 iris init <moniker> --chain-id="bifrost-2"
-curl -o ~/.iris/config/config.toml https://gist.githubusercontent.com/maiyude2018/fde654512a32ba04347ee883c9b48dfd/raw/05966b6e2ef565b7165e2e6d09da0de35164d3ca/config.tomll
+curl -o ~/.iris/config/config.toml https://gist.githubusercontent.com/maiyude2018/fde654512a32ba04347ee883c9b48dfd/raw/05966b6e2ef565b7165e2e6d09da0de35164d3ca/config.toml
 curl -o ~/.iris/config/genesis.json https://gist.githubusercontent.com/maiyude2018/87f515f581189094ba8221309f480b55/raw/b1ebc23116019953df44016bc0d8a021ae76dcaf/genesis.json
 
 ```
