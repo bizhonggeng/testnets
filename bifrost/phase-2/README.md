@@ -1,5 +1,7 @@
 # Bifrost-2
 
+If you haven't pariticipate in Phase-1 of Bifrost testnet, please fill in this form to complete your sign-up process, and remember to set your validator moniker to <your-name>-<pgp-id>, identity to <pgp-id>. You need to complete the tasks use your validator account.
+
 ## How to Join
 
 ### install go
