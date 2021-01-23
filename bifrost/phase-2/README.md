@@ -4,6 +4,13 @@
 
 ### install go
 
+#### Install git, gcc and make
+sudo apt install git build-essential --yes
+
+#### Install Go with Snap
+sudo snap install go --classic
+
+
 - Go 1.15+ is required for building and installing the IRIShub software.
 
 - set your $GOPATH, $GOBIN, and $PATH environment variables, for example:
